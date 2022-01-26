@@ -2,7 +2,7 @@
 
 #### What's this place for?
 
-Hello👋 Here is my personal continual learning algorithm research space. Mainly, I'm doing class-incremental learning research and I'm also using this place to archive related research.
+Hello👋 This is a continual learning algorithm research space. Mainly, I'm doing class-incremental learning research here and I'm also using this to archive related researches.
 
 #### Conference deadlines
 
