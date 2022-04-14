@@ -1,16 +1,8 @@
-## CL Research Space 
-
-#### What's this place for?
+# CL Research Space 
 
 Hello👋 This is a continual learning algorithm research space. Mainly, I'm doing class-incremental learning research here and I'm also using this to archive related researches.
 
-#### Conference deadlines
-
-- ~~CoLLAs 22: Mar. 4, 2022: https://lifelong-ml.cc/~~
-- ~~ECCV'22 (TBD): Mar. 7, 2022: https://eccv2022.ecva.net/~~
-- NeurIPS’22 (TBD): May 2022: https://nips.cc/Conferences/FutureMeetings
-
-#### Libraries
+## Libraries
 
 - [FACIL: Framework for Analysis of Class-Incremental Learning](https://github.com/mmasana/FACIL)
 - [PyCIL: A Python Toolbox for Class-Incremental Learning](https://github.com/G-U-N/PyCIL)
